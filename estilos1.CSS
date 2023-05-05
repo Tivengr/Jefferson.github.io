@@ -1,0 +1,15 @@
+H1{
+	color:lightblue;
+	font-family:algerian;
+}
+body{
+	background-image: url(https://img.freepik.com/vector-premium/fondo-azul-degradado_23-2149337033.jpg);
+	background-size: cover;
+	background-image:left;
+}
+P{
+	color:white;
+	font-family:times new roman;
+	font-style:italic;
+	font-size:20px;
+}

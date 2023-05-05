@@ -1,0 +1,22 @@
+H1{
+	color:lightblue;
+	font-family:algerian;
+}
+P{
+	color:white;
+	font-family:times new roman;
+	font-style:italic;
+	font-size:20px;
+	
+}
+body{
+	background-image: url(https://cdn.pixabay.com/photo/2020/02/19/22/57/blue-background-4863452_1280.jpg);	
+	background-size: cover;
+  background-color: lightgrey;
+  font-family: sans-serif;
+}
+
+H2{
+color:lightgreen;
+font-family:algerian;
+}

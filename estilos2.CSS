@@ -1,0 +1,15 @@
+H1{
+	color:lightblue;
+	font-family:algerian;
+}
+body{
+	background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-speed-%E2%80%8B%E2%80%8Bblue-business-background-dark-blue-square-picture-image_1342671.jpg);
+	background-size: cover;
+	background-image:left;
+}
+P{
+	color:white;
+	font-family:times new roman;
+	font-style:italic;
+	font-size:20px;
+}
